@@ -2,7 +2,7 @@ var db = require("../models");
 
 module.exports = (app) =>{
   app.get("/api/workouts", (req, res)=> {
-    db.Workout.find({}).sort({_id: -1})
+    db.Workout.find({})
       .populate("exercises")
       .then(dbWorkout => {
         
