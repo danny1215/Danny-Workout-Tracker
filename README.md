@@ -17,7 +17,7 @@ This Application can be used by clonning it, open in command prompt or bash.  Th
 ### Technologies Used
 
 - Node.js
-- mongodb
+- mongo database
 - mongoose
 - express
 - robo 3T
@@ -38,4 +38,4 @@ This Application can be used by clonning it, open in command prompt or bash.  Th
 
 ![Screenshot (194)](https://user-images.githubusercontent.com/59859358/111535131-2ba73580-873f-11eb-9e75-8c4b2f5bce85.png)
 
-![Screenshot (195)](https://user-images.githubusercontent.com/59859358/111535242-4aa5c780-873f-11eb-9e5e-14eb90506a4e.png)
+![Screenshot (196)](https://user-images.githubusercontent.com/59859358/111536556-c5231700-8740-11eb-9a66-8b9d8ca13009.png)
