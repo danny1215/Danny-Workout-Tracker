@@ -30,7 +30,8 @@ This Application can be used by clonning it, open in command prompt or bash.  Th
 
 ## LINK TO THE Deployed link
 
-- 
+
+- https://arcane-thicket-13273.herokuapp.com/
 
 ## SCREENSHOTS
 
